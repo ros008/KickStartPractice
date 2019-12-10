@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\sujin\source\repos\kick start\kickstart_2018_roundg_3\main.cpp(29): warning C4244: '초기화 중': 'double'에서 'll'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KickStart_2018_RoundG_3.vcxproj -> C:\Users\Sujin\source\repos\Kick Start\KickStart_2018_RoundG_3\Debug\KickStart_2018_RoundG_3.exe

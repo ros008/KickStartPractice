@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KickStart_2019_RoundG_1", "KickStart_2019_RoundG_1.vcxproj", "{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Debug|x64.ActiveCfg = Debug|x64
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Debug|x64.Build.0 = Debug|x64
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Debug|x86.Build.0 = Debug|Win32
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Release|x64.ActiveCfg = Release|x64
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Release|x64.Build.0 = Release|x64
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Release|x86.ActiveCfg = Release|Win32
+		{ABB50231-5F84-48E6-AD71-A5F2E2F9F65A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFEC0D73-9336-4CFB-91FB-845FA586F446}
+	EndGlobalSection
+EndGlobal
